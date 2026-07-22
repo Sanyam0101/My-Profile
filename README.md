@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=36C2CE&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🧠+Building+Production+AI+Applications;🔬+Computer+Vision+%7C+90%25%2B+Accuracy+on+PlantVillage;📈+Quant+Researcher+%7C+Top+20%25+WorldQuant+IQC+2026;⚡+Powered+by+NVIDIA+A100+%40+GI+Ventures;🌿+Turning+plant+disease+into+deep+learning+gold;🚀+Let's+build+something+crazy..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=36C2CE&center=true&vCenter=true&width=750&height=55&lines=%F0%9F%A7%A0+Building+Production+AI+Applications;%F0%9F%94%AC+Computer+Vision+%7C+90%25%2B+Accuracy;%F0%9F%93%88+Top+20%25+WorldQuant+IQC+2026;%E2%9A%A1+NVIDIA+A100+%40+GI+Ventures;%F0%9F%8C%BF+Plant+Disease+CNN+%7C+90%25%2B+Acc;%F0%9F%9A%80+Let%27s+build+something+crazy..." alt="Typing SVG" />
 
 <br/>
 
@@ -128,8 +128,8 @@ if __name__ == "__main__":
 
 ![Status](https://img.shields.io/badge/💻_Coding-Active-36C2CE?style=for-the-badge&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/📈_Trading-Researching-FFD700?style=for-the-badge&labelColor=0d1117)
-![Status](https://img.shields.io/badge/🤝_Internship-Open-4CAF50?style=for-the-badge&labelColor=0d1117)
-![Status](https://img.shields.io/badge/🎓_Final_Year-B.Tech_CS-7B2FBE?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/🤝_Job-Open-4CAF50?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/🎓_Graduate-B.Tech_CSAIML-7B2FBE?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -290,8 +290,8 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 **🗄️ Databases & Data**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
@@ -321,10 +321,8 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sanyam0101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanyam0101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
 ---
 
 <!-- ████████████████████████████ ACTIVITY GRAPH ████████████████████████████ -->
@@ -346,15 +344,10 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Sanyam0101/Sanyam0101/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-> ⚙️ **Setup:** Add `.github/workflows/snake.yml` — see setup note at bottom ↓
 
 </div>
 
@@ -387,10 +380,9 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Sanyam_Garg?theme=dark&font=baloo&extension=null)
+<img src="https://leetcard.jacoblin.cool/Sanyam_Garg?theme=dark&font=baloo&ext=heatmap" />
 
 </div>
-
 ---
 
 <!-- ████████████████████████████ COMPETITIVE CODING ████████████████████████████ -->
