@@ -416,8 +416,8 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 ## 🌐 Let's Connect & Build Together
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=600&lines=Open+to+internships+%7C+collaborations+%7C+AI+projects;DMs+open+on+LinkedIn+%F0%9F%91%8B;Let's+build+something+the+world+hasn't+seen+yet+🚀" alt="Connect SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=600&lines=Open+to+internships+%7C+collaborations+%7C+AI+projects;DMs+open+on+LinkedIn+%F0%9F%91%8B;Let%27s+build+something+the+world+hasn%27t+seen+yet+%F0%9F%9A%80" alt="Connect SVG"/>
+</div>
 
 <br/>
 
@@ -435,55 +435,12 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 ---
 
-<!-- ████████████████████████████ SETUP NOTES ████████████████████████████ -->
-
-<details>
-<summary><b>⚙️ GitHub Action Setup — Snake Animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 <!-- ████████████████████████████ FOOTER ████████████████████████████ -->
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=500&color=36C2CE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+something+if+you+liked+it!;gargsanyam217%40gmail.com+%7C+linktr.ee%2Fsanyam_garg" alt="Footer SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=500&color=36C2CE&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90+Star+something+if+you+liked+it!;gargsanyam217%40gmail.com+%7C+linktr.ee%2Fsanyam_garg" alt="Footer SVG"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
